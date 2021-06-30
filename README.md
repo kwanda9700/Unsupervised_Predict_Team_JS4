@@ -1,1 +1,2 @@
-# ML_Apple_Price_Challenge_ZM_Team7# Unsupervised_Predict_Team_JS4
+# Regression-Predict-Team-AE1
+This is the GitHub repository for the Unsupervised Predict to be able to work together on the submission notebook that contains all the phases as per the predict instructions and other documents required.
