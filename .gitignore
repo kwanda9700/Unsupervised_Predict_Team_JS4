@@ -1,0 +1,4 @@
+
+data/train.csv
+data/genome_scores.csv
+*.csv
